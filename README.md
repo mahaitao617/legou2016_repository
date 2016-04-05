@@ -1,15 +1,24 @@
 # legou2016_repository
 
-## ��������
-### ���𻷾���LAMP(Centos 6.5 x64+WDCP�������+MySQL��Դ���ݿ�+Apache������+PHP 5.5)
-### ��̨��ܣ�ThinkPHP 3.2.3 �ϸ�����MVC����ģʽ
-### ǰ�˿�ܣ�����ϵͳ���ÿ�Դ BUI���
+## 技术构成
+### 部署环境：LAMP(Centos 6.5 x64+WDCP控制面板+MySQL开源数据库+Apache服务器+PHP 5.5)
+### 后台框架：ThinkPHP 3.2.3 严格遵守MVC开发模式
+### 前端框架：管理系统采用开源 BUI框架
 
-##��Ŀ��Ա����
+##项目人员介绍
 
-### ��������һ��
-### ְ��PHP��̨����&&Linux��������ά
-### ѧУ���ӱ�ʦ����ѧ
-### Github�˺�:zqmath1994
+### 姓名：孟一凡
+### 职责：PHP后台开发&&Linux服务器运维
+### 学校：河北师范大学
+### Github账号:zqmath1994
 ### E-mail:zqmath1994@126.com
 ### QQ:695933122
+
+---
+
+### 姓名：李兆鹏
+### 职责：Android客户端开发
+### 学校：黑河学院
+### Github账号:lzp524329278
+### E-mail:524329278@qq.com
+### QQ:524329278
