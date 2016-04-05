@@ -30,3 +30,13 @@
 ### Github账号:GeniusVJR
 ### E-mail:geniusvjr@gmail.com
 ### QQ:549149326
+
+---
+
+### 姓名：马海涛
+### 职责：PHP后台开发
+### 学校：电子科技大学
+### Github账号:mahaitao617
+### E-mail:634852055@qq.com
+### QQ:634852055
+---
