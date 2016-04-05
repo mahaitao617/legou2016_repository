@@ -22,3 +22,11 @@
 ### Github账号:lzp524329278
 ### E-mail:524329278@qq.com
 ### QQ:524329278
+---
+
+### 姓名：陶程
+### 职责：Android客户端开发
+### 学校：中北大学
+### Github账号:GeniusVJR
+### E-mail:geniusvjr@gmail.com
+### QQ:549149326
